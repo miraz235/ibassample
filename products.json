@@ -1,5 +1,5 @@
 {
 	"scripts": ["script1.js", "script2.js"],
 	"styles": [],
-	"tamplate": "products.html"
+	"template": "products.html"
 }
