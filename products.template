@@ -1,0 +1,5 @@
+{
+	"scripts": ["script1.js", "script2.js"],
+	"styles": [],
+	"template": "<div class=\"d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom\"><h1 class=\"h2\">Products</h1></div><script>(function(){alert('from inline ' + script1());})();</script>"
+}
